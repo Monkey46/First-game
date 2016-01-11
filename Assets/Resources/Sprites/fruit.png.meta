@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 4ada2f4ca2ab94d439f650f57646d0b2
+timeCreated: 1449733218
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slot_machine_fruit_0
+    21300002: slot_machine_fruit_1
+    21300004: slot_machine_fruit_2
+    21300006: slot_machine_fruit_3
+    21300008: slot_machine_fruit_4
+    21300010: slot_machine_fruit_5
+    21300012: slot_machine_fruit_6
+    21300014: slot_machine_fruit_7
+    21300016: fruit_0
+    21300018: fruit_1
+    21300020: fruit_2
+    21300022: fruit_3
+    21300024: fruit_4
+    21300026: fruit_5
+    21300028: fruit_6
+    21300030: fruit_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fruit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 187.5
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fruit_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 175
+        width: 187.5
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fruit_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 175
+        width: 187.5
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fruit_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 175
+        width: 187.5
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fruit_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 187.5
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fruit_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 187.5
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fruit_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 187.5
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fruit_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 187.5
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
